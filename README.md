@@ -5,9 +5,8 @@ Managers deal with a number of decisions about processes, capacity, location, in
 The process of making a decision is complicated because of the uncertainties of the future. 
 This implies that the future outcomes of alternatives that we consider today are in doubt.  
 The aim of this project is to build a decision support system that allows the user to make 
-decisions  under  uncertainty.  We  describe  a  systematic  approach  that  can  be  used  by 
-managers in the process of making decisions. To learn more about decision making under 
-uncertainty, we refer the students to Krajewski and Ritzman (2002). 
+decisions  under  uncertainty. I describe  a  systematic  approach  that  can  be  used  by 
+managers in the process of making decisions.  
  
 Solution approach 
 Step 1: 
@@ -64,7 +63,4 @@ Reports
 2.  Report the best alternative found using the maximin, maximax, Laplace, minimax regret 
 and expected payoff methods.   
  
-Reference 
-Krajewski, L.J., Ritzman, L.P., “Operations Management: Strategy and Analysis.” Prentice 
-Hall, 6th Ed., 2002. 
- 
+
